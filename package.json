@@ -4,7 +4,7 @@
   "description": "a stream implementation that consumes http mjpeg streams and emits jpegs as buffers",
   "main": "index.js",
   "dependencies": {
-    "buffertools": "~1.1.0"
+    "buffertools": ">2.0.0"
   },
   "devDependencies": {
     "request": "~2.12.0",
